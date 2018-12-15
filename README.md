@@ -2,7 +2,7 @@
 This is one of my first PHP Login-Systems
 
 
-##Login-Form
+## Login-Form
 
 ```php
                  <form action="login.php" method="post" id="form">
@@ -11,7 +11,7 @@ This is one of my first PHP Login-Systems
                         <input type="submit">
                     </form>
 ```
-##Register-Form
+## Register-Form
 ```php
                 <form action="register.php" method="post" id="form">
                         <input type="text" name="na" placeholder="Name" required>
@@ -22,8 +22,8 @@ This is one of my first PHP Login-Systems
                 ```
 
 
-##SQL
-```sql
+## SQL
+```
 create table user
 (
   id   int auto_increment
