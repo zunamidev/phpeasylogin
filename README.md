@@ -19,7 +19,7 @@ This is one of my first PHP Login-Systems
                         <input type="password" name="pw" placeholder="Repeat Password"required>
                     <input type="submit">
                 </form>
-                ```
+```
 
 
 ## SQL
