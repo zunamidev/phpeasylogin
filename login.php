@@ -22,7 +22,7 @@ if(mysqli_num_rows($res) > 0) {
             setcookie("login", "n");
         }
     } else {
-        header("Refresh:5; url=https://young-devs.com/zunami/02auth/poll/", true, 303);
+        header("Refresh:5; url=errorpage.com", true, 303);
         echo "Login not allowed";
     }
 }
